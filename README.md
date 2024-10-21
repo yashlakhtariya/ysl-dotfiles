@@ -1,13 +1,10 @@
 <div align="center">
     <h1>【 YSL's Hyprland dotfiles 】</h1>
-    <h3></h3>
 </div>
 
 <div align="center">
     <h2>• overview •</h2>
-    <h3></h3>
 </div>
-
 
  <details> 
   <summary>Notable features</summary>
@@ -98,11 +95,6 @@
  - EWW: [fufexan's config](https://github.com/fufexan/dotfiles) (he thanks more people there btw)
  - AI bots for providing useful examples
  - Open source contributors for their software and ricers for their insipration (would be a too long list to put here!)
-
-<div align="center">
-    <h2>• stonks •</h2>
-    <h3></h3>
-</div>
 
 <div align="center">
     <h2>• inspirations •</h2>
